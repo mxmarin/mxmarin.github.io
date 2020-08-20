@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "More Web Shenanigans"
 date: 2020-08-20
 ---
