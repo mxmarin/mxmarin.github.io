@@ -1,0 +1,52 @@
+---
+title: "Sickness as a way of life"
+date: "2020-04-01"
+---
+
+* * *
+
+![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/cea70117-ce08-4a83-862f-4eed9f668c32_1800x970.jpeg)
+
+##### Image: A binder displaying two pages tracking when M-X was subject to blood work.
+
+##### Left: A summary page, Dates range from August 10 2001 to May 14 2002. 51 blood test results printed on this sheet, as well as tracking Prednisone, IVIG, Anti-D IgG, Dexamethasone, and a bone marrow biopsy.
+
+##### Right: The back-side of a blood-test prescription-sheet, used from March 1 2019 to January 3 2020. 18 blood test dates stamped on this sheet.
+
+* * *
+
+Dear Reader,
+
+Living well with an ever-present awareness that sickness exists is a learned practice. I learned as I grew up in-and-out of hospitals. Everytime I have had a fever since 2001 I have gone to an ER, no matter where I was, including the swiss alps. Every single time. [I didn't attend the Sept. 27 climate march](http://mxmarin.ca/2019/09/sept-27-2019/) because of an appointment that my doctor simply wasn't notified about. I sat patiently in the waiting room instead. I mention these because they pinpoints times when sickness and medicine have come together as moments of illness in my life.
+
+Sickness is a way of life. I mean that Sickness involves learning how the body is remedied and poisoned. By what? By who? Our many answers share some commonalities.
+
+I am reading [The Immune System, A Very Short Introduction](https://www.youtube.com/watch?v=w-2z9JDp-MY) (video), because I do not understand how how the body's biology works. I'm finding this Introduction scientifically informative, but I've got a bone to pick with its language. As an example, the book's metaphor for viral infection is of "hijacking" cells. To me, that language implies that our cells are private property being commandeered by a virus and driven off course towards doom. This propertarian rhetoric of the body seems to make our own bodies unworthy of trust. They must be controlled, bridled like wild horses. And Whose property? Different bodies have different claims to ownership, and enact varying degrees of violent repression to maintain ownership over the cells of other bodies. For a Citizen in 21st century canada, which I am, the ownership-bid is divided up in as many parts as there are calls for us to work productively, or encouragements to consume "freely" the fruits of global economic production shipped to our northern land. We are lucky. No unary institution makes a wholesale claim over our life. Power isn't that concentrated here right now.
+
+In Illness as Metaphor, Susan Sontag dissects the literature concerning Tuberculosis and Cancer. Pervasive disease of the 18-20th centuries. She finds that a recurring metaphor for Turberculosis is 'consumption.' Consumption is defined here as a manner of appearing ill. It was envisioned glamorously. Many aristocrats adorned themselves 'consumptively', it was fashionable. For others in Sontag's analysis, consumption was viewed as a habit to be broken. In other words: The malady of Tuberculosis itself was a habit. In all cases, Sontag's metaphors of illness seem concerned with the perception of illness in others, with its representation after the fact, not with the lived reality of sickness. Sontag herself had 3 cancers, and died with the third. Somehow, the ill are read as on their way to death's door. Sontag's book was reviewed as an exhilarating "literary" performaance, in spite of her explicit point that “illness” is not a metaphor. She was wrong. S.S would have us 'regard' illness in a 'healthy' way 'purified' of metaphoric thinking. Simultaneously, she enforces borders between Kingdoms of health and ill. It seems that, to Sontag, illness broke life into a binary Good and Bad. 40 years later, [we are many who have commented this](https://sickwomantheory.tumblr.com/post/138519901031/transcript-of-my-body-is-a-prison-of-pain-so-i) (video+transcript). Now, these alleged borders are radically porous. Each of us harbours a near-constant awareness that at any moment we may fall ill and be rendered dependent on others for our ability to consume. Sickness demands that we trust the people around us.
+
+What does it mean to 'trust'? How can we trust our own bodies, let alone others, when a virus is pandemic? How could we possibly trust, when we understand viral infection as an attack, a virus as a combatant? When we're _always_ on the defence, shields raised? Instead of virus as hijacker, what about the virus as teacher? From a virus, a host body learns to develop anti-bodies with which to eliminate the infection. Somehow, that's suppose to be negative?
+
+Interdependence of autonomous people is how we heal. The so-called consumptive habit is a political fiction [(and so is gender)](https://mxmarin.substack.com/p/becoming-sick-becoming-trans). How many of us now are now unsure what to do with our days, when we can hardly produce or consume? How many of us feel guilty? This moment is an opportunity to learn other ways of using time and resources. We have the chance to share within our communities, os that each of us emerge stronger once the virus has run its course. How many of us are afraid? How can we defend ourselves against the metaphors of illness and viral infection at once? Illness is an idea, and it is shaped by how we invoke the word. Illness is the stress, fear, restlessness, guilt, and unease we are feeling. Illness is why many of us don't know what to make of their days. Sickness as a way of life is an ecology of presence, an acceptance of the covenant between our bodies and the earth. We are not any more guilty for pandemic than climate change, but we must be responsible for how we respond to both and more. Populations have been violently dispossessed of responsibility by the dominant order of things, and we are at grips to reclaim our presence on the living earth we inhabit. Pandemic may serve as disillusionment within apocalypse. We are here. Not morally or legally bound to responsibility, but filled with desire to promote renewal, reciprocity, and respect. This moment is so full of embodied potentials.
+
+* * *
+
+Time flows by. Saturdays, I am not turning on my phone or computer. How much physical isolation is by design? How are 'safety' and 'productivity' linked? Pandemic is globally a herald for martial law. Public safety restricts interpersonal contact to forms dictated by law so that 'unsafe' actions may be limited. Organizing mass physical protest is unthinkable when pandemic is rampant. The imposition of public safety over history has forced acts of public revolt to assume non-violent forms. 'Peaceful protest.' With increased surveillance came increased reliance on subterfuge. There was a move away from violent uprising toward ideological battle. Peoples were dispossessed of arms so that some may keep them. The disarmament of society and the militarization of policing co-operate with the word of law to ensure safety. We rely on ideas to keep us safe rather than the bodies we inhabit, so we have no more arms with which to care for ourselves. How can we take responsibility if no one has taught us how? It is a matter of learning how to be sick.
+
+Sickness is a call to collective action. Sickness is what families, communities, and affinity groups come together to care for. Sickness is a way of life. Illness is sickness' ethic reduced to a pathology. Illness is a means to shrug off personal responsibility. It removes us from the lived reality of sickness all around. Illness, still, is obscene. In conversation, I notice people seem afraid to utter the word pandemic. A rock-star academic already has a book about COVID-19 available for pre-order.
+
+* * *
+
+[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/1193e1bd-847e-432a-9c51-96c3708ac63a_4128x3096.jpeg)](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F1193e1bd-847e-432a-9c51-96c3708ac63a_4128x3096.jpeg)
+
+##### Image: M-X, Roughly age 8, gazing at the photographer and smiling.
+
+* * *
+
+I feel like a teenager, back when everything was "so sick", even while illness had long enveloped the entirety of my waking life. Every day, I question: what is worth doing right now? Currently Reading, Writing, Talking, Walking, Dancing, Cycling, Tai chi, Qi-Gong, Meditating, Cooking, Sleeping, Playing and Watching by myself and with myself, Photography are all worth doing for me. I have learned that an excess of self-discipline is no substitute for spontaneity and joy, so I smoke cannabis because it helps me feel better and more contemplative.
+
+I live alone with support, and I am screen-averse. This is a difficult combination right now, when a breach in loneliness comes mostly through the networked web. I have felt guilty for my own improved well-being amidst pandemic. How is it that I should feel in may ways better than two weeks ago? So many others are suffering right now. Yet I have more energy, more willpower, and a renewed sense of purpose. Daily my desire to create grows. I feel more present in the world now than I ever have.
+
+The apartment I rent houses me alone. I do not wake up or sleep near others right now. My days are mostly devoted to contemplation. I am supported in making sure my material needs are met. For me, the radical slow-down of daily life has been a deeply positive thing. My awareness of current-global-events has narrowed. I only really follow certain local developments. I know the rest of the news-cycle exists too, but I don't seek it out, and it rarely comes to me by accident. Staying around my home and limiting commercial contact has allowed me to devote far more time to resting. Does anyone else find Rest difficult to come by when daily routine involves commuting and working among hundreds and thousands of others? The press of city life is exhausting and driven by an excess of accumulation and commerce. It's honestly far more pleasant to stay home. Here, I feel control over the ideas that direct my life. I can unplug my clock, and suddenly time is radically changed for me. The _mot-d'ordre_ ceases to be. I'm suddenly aware my rhythm is in tune with the rising and setting sun, rather than the numbers on the clock. I've been reading, and [I blogged brief book reviews for stuff I've finished.](http://mxmarin.ca/category/books/)
+
+* * *
