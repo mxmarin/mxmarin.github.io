@@ -1,6 +1,7 @@
 ---
 title: "General Guidelines For The Management Of A Child With ITP"
 date: "2019-12-01"
+layout: "posts"
 ---
 
 * * *

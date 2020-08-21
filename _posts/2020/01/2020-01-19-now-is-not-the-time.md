@@ -1,6 +1,7 @@
 ---
 title: "It Is Not The Time"
 date: "2020-01-19"
+layout: "posts"
 ---
 
 I am very concerned with the experience of spending extended amounts of time in hospitals, whether that be repeat visits for treatment as an outpatient or extended stays. The following was first written in response to a stint of both treatment and hospitalization in 2017, during which I took some photographs. I am sharing the first of those here today.

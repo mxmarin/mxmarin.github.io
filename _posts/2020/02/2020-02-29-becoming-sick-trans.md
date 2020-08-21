@@ -1,21 +1,14 @@
 ---
 title: "Becoming Sick, Becoming Trans"
 date: "2020-02-29"
+layout: "posts"
 ---
 
-A friend replied to [The Transfusion 07](https://mxmarin.substack.com/p/a-visit-to-the-blood-doctor). They said:
+A friend replied to my previous post. They said:
 
 > Picturing you as a protagonist on some wild life ride helps me digest the fact that everything you're experiencing is real and at times scary. I think I would worry far too much otherwise. I hope your newsletter allows you to experience some form of escapism, if only for a few fleeting moments. How could you not, with all that imagery?
 
 As with all replies, I appreciate the time taken to read, consider, and respond to my words. I deeply cherish the exchanges that arise from this space. This edition of the Transfusion is my public response.
-
-* * *
-
-[![](https://bucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com/public/images/a7432a64-d0ec-4dc5-94c2-d869b32a9628_3096x4128.jpeg)](https://cdn.substack.com/image/fetch/c_limit,f_auto,q_auto:good/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fa7432a64-d0ec-4dc5-94c2-d869b32a9628_3096x4128.jpeg)
-
-##### Image: M-X, age 5, wearing heavy ear-protection, posed at the steering wheel of a large motor-vehicle. They are glancing down at the photographer. Based on their glasses, puffy face, and overall look of dejection, this photo was taken in the first year following their [eye injury](https://mxmarin.substack.com/p/transfusion-03-total-hyphema-and-childhood) and [ITP diagnosis](https://mxmarin.substack.com/p/transfusion-01-general-guidelines-for-the). That fleece vest seems pretty comfortable. Cool patterns. Bon choix maman.
-
-* * *
 
 Dear Readers, The Transfusion is not for me a form of escapism. Lately, I've been experiencing feelings that I don't yet have the right language to describe. Some of what I feel is vigour, passion, lust, sorrow, loss. My body feels sore but good, which is an unusual combination for me. I feel connected to the world yet distant. Perhaps most importantly, I feel angry that the world is so many of the ways that it is right now. I feel possessed by rage, which I'm beginning to realize is at the root of how I choose to be in the world. I feel as though the quote-unquote "sickness" that has shaped my life and led to this newsletter is little more than a political fiction. I do not mean narrative fiction with political themes. Someone reading a novel or a story can close the book and leave the realm of fiction behind. There is an important difference between political fiction and narrative fiction: inescapability. Political fiction is the realm of lived experience formed by all our received notions of what is and is not possible in reality. Political fiction is the language I learned to use to identify myself with people, groups, categories. Name, sex, gender, political status. It feels as though the words I've used to describe myself over the course of my life are becoming increasingly senseless. "How about we all go around and introduce ourselves? Let's do names, pronouns, and anything else you feel like sharing." Matthieu-Xavier Marin, Human, assigned Male, Immune Thrombocytopenia & Depression, Canadian, White of skin and heritage. All of these words are useful short-hand for use on official documents. For many people whose legal identity markers differ in ways from mine, these words are necessary for survival, for recognition and access to essential community and services. These Words are not identity. I believe there is no essential identity, only a shifting set of relations, many of which determine social-political status. I use these words regularly in order to access medication, credit, lodging; they remain political fictions. The same system which designates me as Male leads to my diagnosis as Chronically ill, [A nice boy.](https://mxmarin.substack.com/p/transfusion-04-i-reviewed-this-nice-boy-whose) Politically, I am my "deficient" immune system as much as I am a male of legal voting age. In actuality, I am not Matthieu-Xavier Marin, though that is the name that appears on my passport and will appear on my baccalaureate. I echo here Paul B. Preciado's words:
 
