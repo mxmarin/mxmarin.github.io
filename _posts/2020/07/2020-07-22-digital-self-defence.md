@@ -1,6 +1,7 @@
 ---
 title: "Digital Self-Defence"
 date: "2020-07-22"
+layout: "posts"
 ---
 
 scroll scroll scroll tap scroll click tap I Agree because what other choice is there for me?
@@ -57,7 +58,7 @@ _Désobéir_, Frédéric Gros.
 
 _Surveiller et Punir_, Michel Foucault.
 
-_O__bfuscation_, Finn Brunton and Helen Nissenbaum.
+_Obfuscation_, Finn Brunton and Helen Nissenbaum.
 
 _The Brazen Vessel_, Peter Grey and Alkistis Dimech.
 

@@ -1,6 +1,7 @@
 ---
 title: "I finished Lord of The Rings."
 date: "2020-03-31"
+layout: "posts"
 ---
 
 The love of the Hobbits for each other and nature is the strongest aspect of the storytelling. The writing is in those instances deeply compassionate and moving. However, Tolkien's treatment of Eowyn of Rohan's character is disappointing.

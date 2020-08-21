@@ -1,6 +1,7 @@
 ---
 title: "Taking Stock"
 date: "2020-06-11"
+layout: "posts"
 ---
 
 Back in march, apocalypse rose up to meet me. I became aware of its absolute magnitude. It even smells undeniably real, now. I am late to the game.
