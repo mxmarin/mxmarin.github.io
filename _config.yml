@@ -24,7 +24,6 @@ github_username:  mxmarin
 markdown: kramdown
 plugins:
   - jekyll-feed
-  - amp-jekyll
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
