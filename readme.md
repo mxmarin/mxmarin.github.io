@@ -1,2 +1,2 @@
 Personal website for mxmarin.
-Jekyll, Github Pages, Tufte CSS.
+Jekyll, Github Pages
