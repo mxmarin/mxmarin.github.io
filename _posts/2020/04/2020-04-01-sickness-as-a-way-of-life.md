@@ -2,6 +2,7 @@
 title: "Sickness as a way of life"
 date: "2020-04-01"
 layout: "posts"
+tags: blog transfusion pandemic
 ---
 
 * * *

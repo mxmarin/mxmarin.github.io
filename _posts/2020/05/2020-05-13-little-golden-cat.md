@@ -2,6 +2,7 @@
 title: "Little Golden Cat"
 date: "2020-05-13"
 layout: "posts"
+tags: blog pandemic
 ---
 
 Mae slides by and I sense the displaced air, a noticeable shift in housebound stillness. I do nothing but breathe and pick up the energetic charge of 2 human bodies amidst home appliances and neighbours hidden away by walls. My breath whispers: How simple, inhale exhale over again the first to last thing we'll ever do. It's the repetition that counts, one breath is nothing for the body, we need air uncounted yet we account for a chemical regime, a specialized diet of far more than oxygen which is poison anyway in overdose. The air we share is a floating, transparent pharmacy not-so-carefully calibrated, and precisely weaponized.

@@ -2,6 +2,7 @@
 title: "Encounters while finding a place to live in a small town"
 date: "2020-08-09"
 layout: "posts"
+tags: blog pandemic
 ---
 
 -- Sexism.

@@ -1,0 +1,14 @@
+---
+layout: default
+title: Essays
+---
+
+<div class="essays">
+  {% for post in site.essays %}
+  <div class="post">
+    <h3 class="post-title">
+     <a href="{{ post.url }}">
+       {{ post.title}} </a> </h3> </div>
+<div class="post">
+		{{ post.content }} </div>
+	  {% endfor %} </div>

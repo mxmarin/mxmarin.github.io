@@ -1,6 +1,7 @@
 ---
 title: "The Oncology Ward In The Sky"
 layout: "essays"
+tag: essay
 ---
 
 Biking west along side roads, I whiffed the hospital complex two blocks away. Industrial cleanser seeps through the black cotton mask. Lock up, walk the final 100 feet. First, disinfect hands. People cluster in an attempt to form a line and follow the signposted instructions. We're all masked. Security guards mill about, and a nondescript hospital employee guides people where they need to go.

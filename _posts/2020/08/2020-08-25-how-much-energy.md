@@ -1,6 +1,7 @@
 ---
 layout: posts
 date: 2020-08-25
+tag: blog
 ---
 How Many Servers Get Activated now when I boot up this domain? How much electricity does that use? What generates that? I just learned that websites can be powered with wind, if you don't worry too much about uptime. So share the latest packets sporadically. And that trees can be used to make wind energy. Trees grow quicker than rocks. Salvage, and reshape. Humus is plenty if continually replenished, nourished, if we give to trees, they will return the favour. With love, we give to trees.
 

@@ -2,6 +2,7 @@
 title: "Photophobia and Blind Gain"
 date: "2020-03-14"
 layout: "posts"
+tags: blog transfusion pandemic
 ---
 
 Today: a discussion about how we look at symptoms of blindness in a negative light, and a suggestion for re-thinking blindness as a wholly valuable aspect of experience.

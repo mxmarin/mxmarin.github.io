@@ -2,6 +2,7 @@
 title: "Dune So Far"
 date: "2019-11-11"
 layout: "posts"
+tags: blog books
 ---
 
 The following post is full of rambling spoilers for the Dune saga (up to book 3), proceed only if that’s okay. Originally sent out via personal email.

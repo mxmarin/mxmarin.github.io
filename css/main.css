@@ -85,7 +85,7 @@ p {
     margin-top: 1.4rem;
     margin-bottom: 1.4rem;
     padding-right: 0;
-    vertical-align: baseline;
+   
 }
 
 
@@ -101,11 +101,6 @@ a:visited {
 }
 
 
-@media screen and (-webkit-min-device-pixel-ratio: 0) {
-    a:link, .tufte-underline, .hover-tufte-underline:hover {
-        background-position-y: 87%, 87%, 87%;
-    }
-}
 
 
 div.fullwidth,

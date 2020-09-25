@@ -2,6 +2,7 @@
 title: "Digital Self-Defence"
 date: "2020-07-22"
 layout: "posts"
+tags: blog pandemic internet
 ---
 
 scroll scroll scroll tap scroll click tap I Agree because what other choice is there for me?

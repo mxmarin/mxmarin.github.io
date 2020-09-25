@@ -2,6 +2,7 @@
 title: "Sympathie Sanguine"
 date: "2020-05-31"
 layout: "posts"
+tags: blog transfusion pandemic
 ---
 
 There's no doubt in my mind that inside the body is blood's rightful place.
