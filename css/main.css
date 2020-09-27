@@ -102,13 +102,6 @@ li:not(:first-child) {
     margin-top: 0.25rem;
 }
 
-/* Links: replicate underline that clears descenders */
-a:link,
-a:visited {
-    color: inherit;
-}
-
-
 
 
 div.fullwidth,
