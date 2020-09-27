@@ -2,13 +2,15 @@
 layout: blog
 title: mx's blog
 ---
-<h2>Sroll along, dear reader | <a href="https://mxmarin.ca/feed">rss feed</a></h2>
+
+<h1> Thoughts Descending Chronologically </h1>
+<h2><a href="https://mxmarin.ca/feed">Web feed for this blog</a>
+(Help: <a href="https://aboutfeeds.com">aboutfeeds.com</a>)</h2>
 
 
-<div>
+<ol> 
 {% for blog in site.tags.blog %}
-<h3 style="display:inline">& <a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a></h3>
-<div> {{ blog.content }} </div>
+<li><h3><a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a></h3>
+<p> {{ blog.content }} </p> </li>
 {% endfor %}
-</div>
-
+</ol>
