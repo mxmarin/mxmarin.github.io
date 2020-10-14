@@ -1,5 +1,5 @@
 ---
-layout:posts
+layout: posts
 tags: blog books
 title: Simone est aussi mortelle
 date: 2020-10-10
