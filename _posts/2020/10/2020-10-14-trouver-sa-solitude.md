@@ -1,5 +1,5 @@
 ---
-Title: Trouver sa solitude
+title: Trouver sa solitude
 date: 2020-10-14
 tag: blog
 layout: posts
