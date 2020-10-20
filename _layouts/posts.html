@@ -1,10 +1,8 @@
 ---
 layout: default
 ---
-<h2>{{ page.title }} <a style="color: darkgrey" href="/texts">(back)</a></h2>
-<p class="meta">{{ page.date | date_to_string }} <a style="color:blue;" href="{{ page.url }}">Link to this post</a></p>
 
-
+<p class="meta">(<a style="color: darkgrey" href="/blog">back</a>){{ page.date | date_to_string }} <a style="color:blue;" href="{{ page.url }}">Link to this post</a> </p>
 <div class="post">
   {{ content }}
 </div>

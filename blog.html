@@ -1,0 +1,17 @@
+---
+layout: blog
+title: HEY SALUT M-X HERE
+---
+
+<h2> My thoughts descend chronologically (<a  style="color: darkgrey" href="/">back</a>) </h2>
+<h4><a href="https://mxmarin.ca/feed">Web feed for this blog</a>
+(Help: <a href="https://aboutfeeds.com">aboutfeeds.com</a>)</h4>
+
+<ol> 
+{% for blog in site.tags.blog %}
+<li>
+<h3><a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a></h3>
+<div class="post"> {{ blog.content }} </div> 
+</li>
+{% endfor %}
+</ol>
