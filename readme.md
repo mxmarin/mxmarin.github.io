@@ -1,2 +1,2 @@
 Personal website for mxmarin.
-Jekyll, Github Pages
+Jekyll, Github Pages, Open-iconic.
