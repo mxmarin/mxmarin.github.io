@@ -24,9 +24,6 @@ github_username:  mxmarin
 markdown: kramdown
 plugins:
   - jekyll-feed
-collections:
-  - essays
-  - blog
 theme: minima
 
 # Exclude from processing.
