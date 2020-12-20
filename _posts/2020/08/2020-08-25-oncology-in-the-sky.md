@@ -1,6 +1,6 @@
 ---
 title: "The Oncology Ward In The Sky"
-layout: "essays"
+layout: posts
 tag: essay
 ---
 

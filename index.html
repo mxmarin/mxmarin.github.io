@@ -1,4 +1,20 @@
 ---
-layout: home
+layout: blog
+title: Newest
 ---
 
+<h3> My thoughts descend chronologically, perpetuating the illusion of linear time. This page is concerned with summing the entirety of my blogged writings, some of which will make it into my forthcoming book of essays treating autoimmunity.</h3>
+
+<h3> To receive occasional updates from me, email mx [at] mxmarin.ca </h3>
+
+<h4><a href="https://mxmarin.ca/feed.xml">Web feed for this blog</a>
+(Help: <a href="https://aboutfeeds.com">aboutfeeds.com</a>)</h4>
+<a href='/'><img class="icon" src='/eye.svg' alt="home page"></a> 
+<ol> 
+{% for blog in site.tags.blog %}
+<li>
+<h3><a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a></h3>
+<div class="post"> {{ blog.content }} </div> 
+</li>
+{% endfor %}
+</ol>
