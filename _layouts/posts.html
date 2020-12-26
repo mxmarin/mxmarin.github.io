@@ -25,3 +25,12 @@ layout: default
 
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
+<hr />
+<h2> Recently </h2>
+{% for blog in site.tags.blog limit:10 %}
+<h4><a href={{ blog. url }}>{{blog.title}}</a> - {{blog.date | date_to_string}} </h4>
+{% endfor %}
+<h3> <a href="/archive">Archive</a></h3>
+<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
+</div>

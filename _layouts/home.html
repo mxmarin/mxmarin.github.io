@@ -8,6 +8,8 @@ page.list_title: All Posts
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
+    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+
   {{ content }}
 
   {%- if site.posts.size > 0 -%}
@@ -29,7 +31,6 @@ page.list_title: All Posts
       {%- endfor -%}
     </ul>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
   {%- endif -%}
 
 </div>
