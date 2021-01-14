@@ -5,8 +5,7 @@ title: Latest
 
 
 ### To receive occasional updates from me, email mx [at] mxmarin.ca
-### [How to support me directly.](https://mxmarin.ca)
-
+### [Current projects](https//mxmarin.ca)
 -----
 
 <div style="padding: 30px">
