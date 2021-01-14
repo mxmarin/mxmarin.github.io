@@ -11,13 +11,18 @@ title: Latest
 
 <div style="padding: 30px">
 {% for blog in site.tags.blog limit: 1 %}
-<h1 style="text-indent: 25px"><a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a></h1><h2>{{ blog.date | date_to_string }} </h2>
+<h1 style="text-indent: 25px"><a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a></h1>
 
 <div class="post"> {{ blog.content }} </div> 
 {% endfor %}
 </div>
 -----
+<br>
+{% include blurb.md %}
+<br>
 
+-----
+<br>
 ## Previously: 
 {% for blog in site.tags.blog offset:1 limit:3 %}
 <h4><a href="{{ blog.url }}" style="display: inline">{{ blog.title }}</a> - {{ blog.date | date_to_string }} </h4>
